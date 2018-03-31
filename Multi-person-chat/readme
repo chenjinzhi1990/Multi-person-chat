@@ -1,0 +1,8 @@
+运行server（一个）:
+python server.py  IP    端口
+例：python server.py 'localhost' 9999
+
+运行client（多个）:
+python client.py  server的IP server的端口
+例：python client.py 'localhost' 9999
+
